@@ -1,4 +1,3 @@
-
 # useful scripts
 
 A collection of useful scripts that can be used for anything from Ecology to Data science and back again.
@@ -10,10 +9,14 @@ The table below is a collection of simple scripts for the three programs as thes
 
 ### Books
 
+
 ### University Courses
 
 ### Blogs
 
-...
+Many of the scripts and work-arounds here come from these social feeds and blogging sites. I hope we have given due credit but feel free to add credit where due.
 
-### Highlevel webpages
+- stackoverflow
+- rbloggers
+- R4ds community
+- github
