@@ -1,6 +1,6 @@
 # usefulr
 
-A collection of useful web links for R (TODO!)
+A collection of useful web links for R. This is forked from Shinichi Nakagawa from USNW. I have added some additional resourses and information for myself and others.
 
 ## General
 
