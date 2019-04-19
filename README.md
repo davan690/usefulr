@@ -22,9 +22,13 @@ A great course at the University of British Colmbia: <http://stat545.com/>.
 
 Another grat course at the University of Toronto <https://uoftcoders.github.io/rcourse/index.html>
 
-## Specific 
+## Tool/Package Specific
 
-### multiple ggplots
+### Tidyverse approach
+
+This is a general approach used in Data Science but also Ecology and many other bioloical sciences. Below are some of the key cheats I use when I can't remember particular solutions.
+
+#### Package: ggplot2
 
 <https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html>
 
@@ -32,22 +36,22 @@ Another grat course at the University of Toronto <https://uoftcoders.github.io/r
 
 <http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/>
 
-### PCA 
-
-
-### Residuals
-
-<https://drsimonj.svbtle.com/visualising-residuals>
-
-
-### No legends for ggplots
+#### No legends for ggplots
 
 <https://stackoverflow.com/questions/35618260/remove-legend-ggplot-2-2>
 
 plot + theme(legend.position="none")
 
-### Bubble ggplots
+#### Bubble ggplots
 
 <http://t-redactyl.io/blog/2016/02/creating-plots-in-r-using-ggplot2-part-6-weighted-scatterplots.html>
 
+### PCA
 
+### Residuals
+
+<https://drsimonj.svbtle.com/visualising-residuals>
+
+### Slack
+
+<https://get.slack.help/hc/en-us/articles/212675257>
