@@ -4,13 +4,20 @@ A collection of useful web links for R. This is forked from Shinichi Nakagawa fr
 
 ## General
 
+There are many good lists of R resources on the web. This is my collection but here are some others too:
+
+- [Shinichi Nakagawa]("https://github.com/itchyshin")
+
+- [Hadley Wickham]("https://github.com/hadley")
+
 ### Books
 
-#### R for Data Science and Solutions
+#### Data Science and Solutions
 
-<http://r4ds.had.co.nz/exploratory-data-analysis.html>
+[R for Data Science Book]<http://r4ds.had.co.nz/exploratory-data-analysis.html>
 
-<https://jrnold.github.io/r4ds-exercise-solutions/>
+[R for Data Science Answers]<https://jrnold.github.io/r4ds-exercise-solutions/>
+
 
 ### University Courses
 
@@ -36,22 +43,22 @@ This is a general approach used in Data Science but also Ecology and many other 
 
 <http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/>
 
-#### No legends for ggplots
+##### No legends for ggplots
 
 <https://stackoverflow.com/questions/35618260/remove-legend-ggplot-2-2>
 
 plot + theme(legend.position="none")
 
-#### Bubble ggplots
+##### Bubble ggplots
 
 <http://t-redactyl.io/blog/2016/02/creating-plots-in-r-using-ggplot2-part-6-weighted-scatterplots.html>
 
-### PCA
-
-### Residuals
+#### Residuals
 
 <https://drsimonj.svbtle.com/visualising-residuals>
 
 ### Slack
 
-<https://get.slack.help/hc/en-us/articles/212675257>
+This is a simple communication tool but is also a powerful RSS reader, workflow manager and file sharing tool.
+
+- [Simple slack sign-up process]<https://get.slack.help/hc/en-us/articles/212675257>

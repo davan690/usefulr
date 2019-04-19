@@ -5,7 +5,6 @@ date: "5 April 2019"
 output: html_document
 ---
 
-
 **Overall priors**
 
 "Non-informative prior distributions were selected to allow the data to drive parameter estimation [@gelman2006]. The prior distributions of capture histories were assigned binomial distributions and variance terms were assigned broad uniform prior (0-100) as suggested by @gelman2006. The remaining parameters were assigned normally distributed prior with mean 0 and variance 0.00001. Each model was run for 100 000 iterations with a burn-in of 50 000 iterations, which was sufficient to achieve convergence as judged by visual inspection of the chain histories."
