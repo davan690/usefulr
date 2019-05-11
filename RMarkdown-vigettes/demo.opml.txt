@@ -1,0 +1,51 @@
+<opml version=“1.0”>
+<head>
+<title>Annual Reviews RSS Feeds</title>
+<dateCreated>Wed, 26 Oct 2010</dateCreated>
+<dateModified>Mon, 01 Nov 2010</dateModified>
+</head>
+<body>
+<outline text=“Annual Reviews Table of Contents RSS Feeds”>
+<outline type=“rss” text=“Annual Review of Analytical Chemistry” htmlUrl=“http://www.annualreviews.org/journal/anchem” xmlUrl=“http://www.annualreviews.org/r/anchem_rss”/>
+<outline type=“rss” text=“Annual Review of Anthropology” htmlUrl=“http://www.annualreviews.org/journal/anthro” xmlUrl=“http://www.annualreviews.org/r/anthro_rss”/>
+<outline type=“rss” text=“Annual Review of Astronomy and Astrophysics” htmlUrl=“http://www.annualreviews.org/journal/astro” xmlUrl=“http://www.annualreviews.org/r/astro_rss”/>
+<outline type=“rss” text=“Annual Review of Biochemistry” htmlUrl=“http://www.annualreviews.org/journal/biochem” xmlUrl=“http://www.annualreviews.org/r/biochem_rss”/>
+<outline type=“rss” text=“Annual Review of Biomedical Engineering” htmlUrl=“http://www.annualreviews.org/journal/bioeng” xmlUrl=“http://www.annualreviews.org/r/bioeng_rss”/>
+<outline type=“rss” text=“Annual Review of Biophysics” htmlUrl=“http://www.annualreviews.org/journal/biophys” xmlUrl=“http://www.annualreviews.org/r/biophys_rss”/>
+<outline type=“rss” text=“Annual Review of Cell and Developmental Biology” htmlUrl=“http://www.annualreviews.org/journal/cellbio” xmlUrl=“http://www.annualreviews.org/r/cellbio_rss”/>
+<outline type=“rss” text=“Annual Review of Chemical and Biomolecular Engineering” htmlUrl=“http://www.annualreviews.org/journal/chembioeng” xmlUrl=“www.annualreviews.org/r/chembioeng_rss”/>
+<outline type=“rss” text=“Annual Review of Clinical Psychology” htmlUrl=“http://www.annualreviews.org/journal/clinpsy” xmlUrl=“http://www.annualreviews.org/r/clinpsy_rss”/>
+<outline type=“rss” text=“Annual Review of Condensed Matter Physics” htmlUrl=“http://www.annualreviews.org/journal/conmatphys” xmlUrl=“http://www.annualreviews.org/r/conmatphys_rss”/>
+<outline type=“rss” text=“Annual Review of Earth and Planetary Sciences” htmlUrl=“http://www.annualreviews.org/journal/earth” xmlUrl=“http://www.annualreviews.org/r/earth_rss”/>
+<outline type=“rss” text=“Annual Review of Ecology, Evolution, and Systematics” htmlUrl=“http://www.annualreviews.org/journal/ecolsys” xmlUrl=“http://www.annualreviews.org/r/ecolsys_rss”/>
+<outline type=“rss” text=“Annual Review of Economics” htmlUrl=“http://www.annualreviews.org/journal/economics” xmlUrl=“http://www.annualreviews.org/r/economics_rss”/>
+<outline type=“rss” text=“Annual Review of Entomology” htmlUrl=“http://www.annualreviews.org/journal/ento” xmlUrl=“http://www.annualreviews.org/r/ento_rss”/>
+<outline type=“rss” text=“Annual Review of Environment and Resources” htmlUrl=“http://www.annualreviews.org/journal/energy” xmlUrl=“www.annualreviews.org/r/energy_rss”/>
+<outline type=“rss” text=“Annual Review of Financial Economics” htmlUrl=“http://www.annualreviews.org/journal/financial” xmlUrl=“http://www.annualreviews.org/r/financial_rss”/>
+<outline type=“rss” text=“Annual Review of Fluid Mechanics” htmlUrl=“http://www.annualreviews.org/journal/fluid” xmlUrl=“http://www.annualreviews.org/r/fluid_rss”/>
+<outline type=“rss” text=“Annual Review of Food Science and Technology” htmlUrl=“http://www.annualreviews.org/journal/food” xmlUrl=“http://www.annualreviews.org/r/food_rss”/>
+<outline type=“rss” text=“Annual Review of Genetics” htmlUrl=“http://www.annualreviews.org/journal/genet” xmlUrl=“http://www.annualreviews.org/r/genet_rss”/>
+<outline type=“rss” text=“Annual Review of Genomics and Human Genetics” htmlUrl=“http://www.annualreviews.org/journal/genom” xmlUrl=“http://www.annualreviews.org/r/genom_rss”/>
+<outline type=“rss” text=“Annual Review of Immunology” htmlUrl=“http://www.annualreviews.org/journal/immunol” xmlUrl=“http://www.annualreviews.org/r/immunol_rss”/>
+<outline type=“rss” text=“Annual Review of Law and Social Science” htmlUrl=“http://www.annualreviews.org/journal/lawsocsci” xmlUrl=“http://www.annualreviews.org/r/lawsocsci_rss”/>
+<outline type=“rss” text=“Annual Review of Marine Science” htmlUrl=“http://www.annualreviews.org/journal/marine” xmlUrl=“http://www.annualreviews.org/r/marine_rss”/>
+<outline type=“rss” text=“Annual Review of Materials Research” htmlUrl=“http://www.annualreviews.org/journal/matsci” xmlUrl=“http://www.annualreviews.org/r/matsci_rss”/>
+<outline type=“rss” text=“Annual Review of Medicine” htmlUrl=“http://www.annualreviews.org/journal/med” xmlUrl=“http://www.annualreviews.org/r/med_rss”/>
+<outline type=“rss” text=“Annual Review of Microbiology” htmlUrl=“http://www.annualreviews.org/journal/micro” xmlUrl=“http://www.annualreviews.org/r/micro_rss”/>
+<outline type=“rss” text=“Annual Review of Neuroscience” htmlUrl=“http://www.annualreviews.org/journal/neuro” xmlUrl=“http:/www.annualreviews.org/r/neuro_rss”/>
+<outline type=“rss” text=“Annual Review of Nuclear and Particle Science” htmlUrl=“http://www.annualreviews.org/journal/nucl” xmlUrl=“http://www.annualreviews.org/r/nucl_rss”/>
+<outline type=“rss” text=“Annual Review of Nutrition” htmlUrl=“http://www.annualreviews.org/journal/nutr” xmlUrl=“http://www.annualreviews.org/r/nutr_rss”/>
+<outline type=“rss” text=“Annual Review of Pathology: Mechanisms of Disease” htmlUrl=“http://www.annualreviews.org/journal/pathmechdis” xmlUrl=“http://www.annualreviews.org/r/pathmechdis_rss”/>
+<outline type=“rss” text=“Annual Review of Pharmacology and Toxicology” htmlUrl=“http://www.annualreviews.org/journal/pharmtox” xmlUrl=“http://www.annualreviews.org/r/pharmtox_rss”/>
+<outline type=“rss” text=“Annual Review of Physical Chemistry” htmlUrl=“http://www.annualreviews.org/journal/physchem” xmlUrl=“http://www.annualreviews.org/r/physchem_rss”/>
+<outline type=“rss” text=“Annual Review of Physiology” htmlUrl=“http://www.annualreviews.org/journal/physiol” xmlUrl=“http://www.annualreviews.org/r/physiol_rss”/>
+<outline type=“rss” text=“Annual Review of Phytopathology” htmlUrl=“http://www.annualreviews.org/journal/phyto” xmlUrl=“http://www.annualreviews.org/r/phyto_rss”/>
+<outline type=“rss” text=“Annual Review of Plant Biology” htmlUrl=“http://www.annualreviews.org/journal/arplant” xmlUrl=“http://www.annualreviews.org/r/arplant_rss”/>
+<outline type=“rss” text=“Annual Review of Political Science” htmlUrl=“http://www.annualreviews.org/journal/polisci” xmlUrl=“http://www.annualreviews.org/r/polisci_rss”/>
+<outline type=“rss” text=“Annual Review of Psychology” htmlUrl=“http://www.annualreviews.org/journal/psych” xmlUrl=“http://www.annualreviews.org/r/psych_rss”/>
+<outline type=“rss” text=“Annual Review of Public Health” htmlUrl=“http://www.annualreviews.org/journal/publhealth” xmlUrl=“http://www.annualreviews.org/r/publhealth_rss”/>
+<outline type=“rss” text=“Annual Review of Resource Economics” htmlUrl=“http://www.annualreviews.org/journal/resource” xmlUrl=“http://www.annualreviews.org/r/resource_rss”/>
+<outline type=“rss” text=“Annual Review of Sociology” htmlUrl=“http://www.annualreviews.org/journal/soc” xmlUrl=“http://www.annualreviews.org/r/soc_rss”/>
+</outline>
+</body>
+</opml>
