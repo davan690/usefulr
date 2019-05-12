@@ -18,5 +18,9 @@ myplot <- ggplot(mtcars, aes(wt, mpg)) + geom_point()
 print(myplot)
 dev.off()
 
+jpeg("myplot.jpeg")
+myplot <- ggplot(mtcars, aes(wt, mpg)) + geom_point()
+print(myplot)
+dev.off()
 
 ggsave()
