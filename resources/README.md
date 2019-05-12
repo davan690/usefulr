@@ -1,31 +1,3 @@
-# usefulr
-
-A collection of useful web links for R. This document was originally forked from [Shinichi Nakagawa]() from [UNSW]() and many resources that [Hadley Wickham] has created. I have added some additional resources and information from myself and others however I am learning as I go so please be kind on my mistakes and let me know. The current files are divided into:
-
-### ./useful-scripts/
-
-This folder includes simple tasks wrapped into individual R scripts. Some of these documents will develop into vignettes made with `.Rmd` files which belong in the `RMarkdown-vignettes` folder. These scripts should not be regarded as functions yet either but as the scripts that I use all the time become more accesses I will turn them into stand-alone packages.
-
-### ./templates/
-
-*These documents are likely to be moved to the [reproducible guide]() I am developing on GIT.*
-
-Currently this folder contains simple templates I am currently developing for ecological publications. There are many different templates available and templates are vital for truely reproducible workflows. I will continue to develop these templates in the reproducible guide that I am developing from the [BES guidebook for reproducible code](). Currently:
-
-- [simple manuscript template]()
-
-- [information based blog template]()
-
-### ./RMarkdown-vignettes/
-
-This is a collection of kol RMarkdown files that help explain the helpful scripts and functions developed in this repositiory. Many on this files are produced of open-source collaboration and development from other repositories. I hope I have referenced these correctly and directed traffic in the correct places however if anything is worrying please contact me. Currently in this folder there are just a few rough `.Rmd` files:
-
-- []()
-
-### ./resources/
-
-**BELOW CURRENTLY**
-
 This folder has links, blogs I have written and other resources for navigating R and statistics in a coding world.
 
 ## General resources
