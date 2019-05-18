@@ -1,9 +1,9 @@
 # file of R library dependancies
-# Davidson 2019
+# Davidson 2019 Beech paper
 # 1/03/2019
 
 # install packages guide
-# lib.loc="C:/Program Files/R/R-3.5.2/library"
+# lib.loc="C:/Program Files/R/R-3.6.0/library"
 
 # libraries
 library(deSolve)
@@ -52,22 +52,22 @@ windowsFonts(Times = windowsFont("TT Times New Roman"))
 # install.packages("desolve")
 
 # tidybayes
-# library(tidybayes)
-# library(magrittr)
-# library(dplyr)
-# library(forcats)
-# library(ggplot2)
-# library(ggstance)
-# library(emmeans)
-# library(broom)
-# library(lme4)
-# library(rstan)
-# library(rstanarm)
-# library(brms)
-# library(modelr)
-# library(bayesplot)
-# library(MCMCglmm)
-# library(tidybayes)
-# library(cowplot)
-# library(RColorBrewer)
-# library(gganimate)
+library(tidybayes)
+library(magrittr)
+library(dplyr)
+library(forcats)
+library(ggplot2)
+library(ggstance)
+library(emmeans)
+library(broom)
+library(lme4)
+library(rstan)
+library(rstanarm)
+library(brms)
+library(modelr)
+library(bayesplot)
+library(MCMCglmm)
+library(tidybayes)
+library(cowplot)
+library(RColorBrewer)
+library(gganimate)

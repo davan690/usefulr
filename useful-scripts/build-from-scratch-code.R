@@ -6,42 +6,31 @@
 .libPaths()
 
 # set correct .libs
-installed.packages()
+# code  to install packages in base R from base R is
+# installed.packages()
 
 
-# BASE working?
-print("Hello World")
+# Install in this ORDER...
+# i am very superstitious
 
-x <- c(1, 2, 3, 4, 5)
-y <- c(123, 345, 547, 1029, 92084)
+# Install R
 
-# Save dataframe
-dat <- data.frame(x,y)
-str(dat)
+# Install RStudio
 
-# PLot windown work?
-plot(x ~ y)
-
-# Can you connect to data in database(baseR)
-dat <- data(JohnsonJohnson)
-str(JohnsonJohnson)
-
-# Common packages (if not working in install)
-glimpse(dat)
-
-# Ggplot code
-ggplot2(data = dat, aes(x = x, y = y)) +
-    geom_point()
+# Install Pandocx?
+# use tinytex to install pandoc?
+# check all this
 
 # Installing libraries needed
 
+#Install this first if it is not already installed
 # Adding devtools if needed
 if (!requireNamespace("devtools"))
    install.packages('devtools')
 
 # Git packages to install
-devtools::install_github('rstudio/rmarkdown')
-devtools::install_github("cboettig/knitcitations@v1")
+#devtools::install_github('rstudio/rmarkdown')
+#devtools::install_github("cboettig/knitcitations@v1")
 
 ###############################################################################
 #installing new packages
@@ -84,7 +73,7 @@ library(jtools)
 library(kableExtra)
 
 ###############################################################################
-# COMPILING CODE libraries
+# COMPILING Reference libraries
 library(bibtex)
 library(knitcitations)
 cleanbib()
