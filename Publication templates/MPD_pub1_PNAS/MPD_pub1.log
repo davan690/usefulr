@@ -1,0 +1,30 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.7)  5 FEB 2019 21:57
+entering extended mode
+**./MPD_pub1.tex
+(MPD_pub1.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(pnas-new.cls
+Document Class: pnas-new 28/02/2015, v1.2
+
+! LaTeX Error: File `extarticle.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.34 
+       
+Here is how much of TeX's memory you used:
+ 24 strings out of 493334
+ 323 string characters out of 3129357
+ 53242 words of memory out of 3000000
+ 3649 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 17i,0n,21p,83b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
