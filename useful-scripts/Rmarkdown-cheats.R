@@ -1,21 +1,19 @@
- ## Plot 1
-     qplot(carat, price, data = diamonds)
-     cap <- "This is caption 1"
-     
-     ## Plot 2
-     qplot(carat, depth, data = diamonds)
-     
-    cap <- c(cap, "This is caption 2")
-     
-## Plot 1
-qplot(carat, price, data = diamonds)
-cap <- "This is caption 1"
+# rendering different options using `rmarkdown` package in RSTudio
+# June 2019
+# Anthony Davidson
 
-## Plot 2
-qplot(carat, depth, data = diamonds)
-cap <- c(cap, "This is caption 2")
+# differnet libraries from github
+library(rticles)
+library(devtools)
+library(rmarkdown)
+library(packrat)
+install_
 
-# inline code
-# *`r table(ind.cap)`*
+pkgbuild::has_rtools
+
+# What is already happening
+rmarkdown::all_output_formats(input = "./Davidson_2019_Data_wrangling.Rmd")
+
+
   
   
